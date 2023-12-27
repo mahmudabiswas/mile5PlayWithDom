@@ -1,0 +1,26 @@
+.firstSection {
+  text-align: center;
+}
+#plus {
+  font-size: 30px;
+  font-weight: bold;
+}
+#increment {
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+  background-color: blue;
+  padding: 10px;
+}
+#decrement {
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+  background-color: aqua;
+  padding: 10px;
+}
+.middleSection {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
