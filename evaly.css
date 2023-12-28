@@ -1,0 +1,12 @@
+body {
+  margin: auto;
+  width: 50%;
+}
+#submit {
+  color: black;
+  background-color: aqua;
+  padding: 10px;
+}
+#review {
+  color: red;
+}
